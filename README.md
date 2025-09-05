@@ -41,7 +41,7 @@ Interactive website promoting solar energy solutions.
 
 ### 🎧 [Audiophile](https://rejyaudiophile.netlify.app/)  
 Responsive audio store web application.  
-**Tech:** React.js, CSS3  
+**Tech:** HTML5, CSS3, JavaScript  
 
 ### 👗 [Galia Fashion](https://galiafashion.netlify.app/)  
 E-commerce platform for a fashion brand.  
