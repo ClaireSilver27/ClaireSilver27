@@ -58,12 +58,6 @@ E-commerce platform for a fashion brand.
 
 ---
 
-## 📊 GitHub Stats  
-![Rejoice's GitHub stats](https://github-readme-stats.vercel.app/api?username=rejoice-ukandu&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rejoice-ukandu&layout=compact&theme=tokyonight)  
-
----
-
 ## 📫 Let’s Connect  
 - 💼 [LinkedIn](https://linkedin.com/in/chizurumoke-rejoice-ukandu)  
 - ✉️ [Email](mailto:ukandurejoice27@gmail.com)  
