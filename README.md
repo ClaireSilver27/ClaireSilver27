@@ -52,7 +52,7 @@ E-commerce platform for a fashion brand.
 ---
 
 ## 📫 Let’s Connect  
-- 💼 [LinkedIn](https://linkedin.com/in/chizurumoke-rejoice-ukandu)  [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/chizurumoke-rejoice-ukandu)
+- 💼 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/chizurumoke-rejoice-ukandu)
 - ✉️ [Email](mailto:ukandurejoice27@gmail.com)  
 
 ---
