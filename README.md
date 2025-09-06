@@ -37,7 +37,7 @@
 
 ## 🚀 Featured Projects  
 
-### 🌍 [Eco Power](https://eco-power-team2.netlify.app/)  ### 🎧 [Audiophile](https://rejyaudiophile.netlify.app/)  ### 👗 [Galia Fashion](https://galiafashion.netlify.app/)  
+### 🌍 [Eco Power](https://eco-power-team2.netlify.app/)  🎧 [Audiophile](https://rejyaudiophile.netlify.app/)  👗 [Galia Fashion](https://galiafashion.netlify.app/)  
  
 ---
 
