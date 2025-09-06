@@ -1,11 +1,7 @@
 # 👋 Hi, I’m Chizurumoke Rejoice Ukandu  
 
 🚀 **Emerging Developer | Exploring Code & Information Systems**  
-🌱 I am passionate about learning, building, and creating digital solutions that improve both **user experiences** and **business systems efficiency**.  
-
-
-
-
+🌱 I am passionate about learning, building, and creating digital solutions that improve both **user experiences** and **business systems efficiency**. <br>
 
 
 ## 🛠 Tech Stack (Learning & Applying)  
@@ -27,7 +23,7 @@
 ### 🔧 Tools & Version Control  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
 
----
+<br>
 
 ## 🎯 Current Focus  
 - Growing as an **emerging software developer** through hands-on learning.  
@@ -36,13 +32,13 @@
 - Building projects that combine **usability, scalability, and efficiency**.  
 - Sharing my journey in tech and documenting my growth.  
 
----
+<br>
 
 ## 🚀 Featured Projects  
 
 ### 🌍 [Eco Power](https://eco-power-team2.netlify.app/) | 🎧 [Audiophile](https://rejyaudiophile.netlify.app/) | 👗 [Galia Fashion](https://galiafashion.netlify.app/)  
  
----
+<br>
 
 ## 📫 Let’s Connect  
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/chizurumoke-rejoice-ukandu) [![](https://img.shields.io/badge/gmail-%230077B5.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ukandurejoice27@gmail.com)
