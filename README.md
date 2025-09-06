@@ -37,18 +37,8 @@
 
 ## 🚀 Featured Projects  
 
-### 🌍 [Eco Power](https://eco-power-team2.netlify.app/)  
-Interactive website promoting solar energy solutions.  
-**Tech:** HTML5, CSS3, JavaScript  
-
-### 🎧 [Audiophile](https://rejyaudiophile.netlify.app/)  
-Responsive audio store web application.  
-**Tech:** HTML5, CSS3, JavaScript  
-
-### 👗 [Galia Fashion](https://galiafashion.netlify.app/)  
-E-commerce platform for a fashion brand.  
-**Tech:** HTML5, CSS3, JavaScript  
-
+### 🌍 [Eco Power](https://eco-power-team2.netlify.app/)  ### 🎧 [Audiophile](https://rejyaudiophile.netlify.app/)  ### 👗 [Galia Fashion](https://galiafashion.netlify.app/)  
+ 
 ---
 
 ## 📫 Let’s Connect  
