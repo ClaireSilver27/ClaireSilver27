@@ -1,6 +1,9 @@
 # 👋 Hi, I’m Chizurumoke Rejoice Ukandu  
 
 🚀 **Emerging Developer | Exploring Code & Information Systems**  
+
+<br>
+
 🌱 I am passionate about learning, building, and creating digital solutions that improve both **user experiences** and **business systems efficiency**. 
 
 <br>
@@ -41,7 +44,15 @@
  
 <br>
 
-## 📫 Let’s Connect  
+## 🤝 Collaboration  
+I’m open to collaborating on:  
+- Open-source projects (frontend or full stack)  
+- Web applications that improve productivity or user experiences  
+- Research or projects in **Information Systems Management**  
+- Team projects where I can learn, contribute, and grow with others  
+
+If you’re working on something exciting and need a contributor, let’s connect! 🚀 
+
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/chizurumoke-rejoice-ukandu) [![](https://img.shields.io/badge/gmail-%230077B5.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ukandurejoice27@gmail.com)
 
 ---
