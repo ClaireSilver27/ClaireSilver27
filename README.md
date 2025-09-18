@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Chizurumoke Rejoice Ukandu  
 
-🚀 **Emerging Developer | Exploring Code & Information Systems**  
+🚀 **Emerging Full Stack Developer | Exploring Code & Information Systems**  
 
 🌱 I am passionate about learning, building, and creating digital solutions that improve both **user experiences** and **business systems efficiency**. 
 
